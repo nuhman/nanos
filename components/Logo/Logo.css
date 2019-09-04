@@ -1,0 +1,9 @@
+.logo-container{  
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #34495e !important;
+}
+.logo-container p{
+  text-transform: capitalize;
+}

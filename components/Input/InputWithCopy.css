@@ -1,0 +1,12 @@
+.input-copy-container{  
+}
+.input-copy-container > *{
+  margin-bottom:40px;
+  margin-top:20px;
+}
+.input-copy-btn{
+  display: flex;
+  flex-direction: column;  
+  justify-content: center;
+  align-items: center;
+}
